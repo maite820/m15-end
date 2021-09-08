@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "602d45ad81e658387452ffa1"
+  },
+  "marca": "vogue",
+  "graduación": [
+    {
+      "graduacion_vidrio_1": 1,
+      "graduacion_vidrio_2": 1
+    }
+  ],
+  "TipoMontura": "flotante",
+  "ColorMontura": "dorada",
+  "colorVidrios": [
+    {
+      "Color_vidrio1": "transparente",
+      "Color_vidrio2": "transparente"
+    }
+  ],
+  "precio": 200,
+  "Proveedor": [
+    {
+      "Nombre_proveedor": "lavalla,s.a.",
+      "Ubicacion": [
+        {
+          "calle": "gracia",
+          "numero": 12,
+          "piso": 1,
+          "puerta": "2",
+          "ciudad": "San Sebastian",
+          "CP": 3434,
+          "Pais": "Alemania"
+        }
+      ],
+      "Telefono": 900123123,
+      "Fax": 900123456,
+      "NIF": "A-67230234"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6033c63e208c65389cb23614"
+  },
+  "marca": "michaelkors",
+  "graduación": [
+    {
+      "graduacion_vidrio_1": 2,
+      "graduacion_vidrio_2": 2
+    }
+  ],
+  "TipoMontura": "metalica",
+  "ColorMontura": "plata",
+  "colorVidrios": [
+    {
+      "Color_vidrio1": "transparente",
+      "Color_vidrio2": "transparente"
+    }
+  ],
+  "precio": 300,
+  "Proveedor": [
+    {
+      "Nombre_proveedor": "Novita,s.a.",
+      "Ubicacion": [
+        {
+          "calle": "gracia",
+          "numero": 12,
+          "piso": 1,
+          "puerta": "2",
+          "ciudad": "San Sebastian",
+          "CP": 3434,
+          "Pais": "Alemania"
+        }
+      ],
+      "Telefono": 937171212,
+      "Fax": 937171212,
+      "NIF": "A-12311123"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6033c854208c65389cb23616"
+  },
+  "marca": "michaelkors",
+  "graduación": [
+    {
+      "graduacion_vidrio_1": 2,
+      "graduacion_vidrio_2": 2
+    }
+  ],
+  "TipoMontura": "pasta",
+  "ColorMontura": "transparente",
+  "colorVidrios": [
+    {
+      "Color_vidrio1": "azul",
+      "Color_vidrio2": "azul"
+    }
+  ],
+  "precio": 150,
+  "Proveedor": [
+    {
+      "Nombre_proveedor": "Novita,s.a.",
+      "Ubicacion": [
+        {
+          "calle": "gracia",
+          "numero": 12,
+          "piso": 1,
+          "puerta": "2",
+          "ciudad": "San Sebastian",
+          "CP": 3434,
+          "Pais": "Alemania"
+        }
+      ],
+      "Telefono": 937171212,
+      "Fax": 937171212,
+      "NIF": "A-12311123"
+    }
+  ]
+}]

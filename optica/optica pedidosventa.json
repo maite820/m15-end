@@ -1,0 +1,229 @@
+[{
+  "_id": {
+    "$oid": "602d55b481e658387452ffb5"
+  },
+  "Numero Pedido": 1,
+  "fecha_pedido": {
+    "$date": "2021-01-11T12:00:00Z"
+  },
+  "Cliente": [
+    {
+      "_id": {
+        "$oid": "602d558281e658387452ffb0"
+      },
+      "nombre_cliente": "Laura Ros",
+      "Ubicación": [
+        {
+          "calle": "Sevillano",
+          "numero": 1,
+          "Ciudad": "Malaga",
+          "CP": 9898,
+          "Pais": "Marruecos"
+        }
+      ],
+      "telefono": 937172087,
+      "email": "LAURA@GMAIL.COM",
+      "fecha_inicio": {
+        "$date": "2021-01-05T11:14:00Z"
+      },
+      "Recomendado por cliente": "Marta Cunit"
+    }
+  ],
+  "cantidad": 1,
+  "gafa": [
+    {
+      "_id": {
+        "$oid": "602d45ad81e658387452ffa1"
+      },
+      "marca": "vogue",
+      "graduación": [
+        {
+          "graduacion_vidrio_1": 1,
+          "graduacion_vidrio_2": 1
+        }
+      ],
+      "TipoMontura": "flotante",
+      "ColorMontura": "dorada",
+      "colorVidrios": [
+        {
+          "Color_vidrio1": "transparente",
+          "Color_vidrio2": "transparente"
+        }
+      ],
+      "precio": 200,
+      "Proveedor": [
+        {
+          "Nombre_proveedor": "lavalla,s.a.",
+          "Ubicacion": [
+            {
+              "calle": "gracia",
+              "numero": 12,
+              "piso": 1,
+              "puerta": "2",
+              "ciudad": "San Sebastian",
+              "CP": 3434,
+              "Pais": "Alemania"
+            }
+          ],
+          "Telefono": 900123123,
+          "Fax": 900123456,
+          "NIF": "A-67230234"
+        }
+      ]
+    }
+  ],
+  "precio total": 200,
+  "Numero de Empleado": 1
+},{
+  "_id": {
+    "$oid": "6033d49a208c65389cb23619"
+  },
+  "Numero Pedido": 2,
+  "fecha_pedido": {
+    "$date": "2021-01-11T12:00:00Z"
+  },
+  "Cliente": [
+    {
+      "_id": {
+        "$oid": "6033ce2a208c65389cb23617"
+      },
+      "nombre_cliente": "Marta Cunit",
+      "Ubicación": [
+        {
+          "calle": "Sevillano",
+          "numero": 3,
+          "Ciudad": "Malaga",
+          "CP": 9898,
+          "Pais": "Marruecos"
+        }
+      ],
+      "telefono": 937172749,
+      "email": "marta71@gmail.com",
+      "fecha_inicio": {
+        "$date": "2021-01-05T11:15:00Z"
+      },
+      "Recomendado por cliente": "Laura Ros"
+    }
+  ],
+  "cantidad": 1,
+  "gafa": [
+    {
+      "_id": {
+        "$oid": "6033c63e208c65389cb23614"
+      },
+      "marca": "michaelkors",
+      "graduación": [
+        {
+          "graduacion_vidrio_1": 2,
+          "graduacion_vidrio_2": 2
+        }
+      ],
+      "TipoMontura": "metalica",
+      "ColorMontura": "plata",
+      "colorVidrios": [
+        {
+          "Color_vidrio1": "transparente",
+          "Color_vidrio2": "transparente"
+        }
+      ],
+      "precio": 300,
+      "Proveedor": [
+        {
+          "Nombre_proveedor": "Novita,s.a.",
+          "Ubicacion": [
+            {
+              "calle": "gracia",
+              "numero": 12,
+              "piso": 1,
+              "puerta": "2",
+              "ciudad": "San Sebastian",
+              "CP": 3434,
+              "Pais": "Alemania"
+            }
+          ],
+          "Telefono": 937171212,
+          "Fax": 937171212,
+          "NIF": "A-12311123"
+        }
+      ]
+    }
+  ],
+  "precio total": 300,
+  "Numero de Empleado": 2
+},{
+  "_id": {
+    "$oid": "6138cd864793aed85caedca0"
+  },
+  "Numero Pedido": 3,
+  "fecha_pedido": {
+    "$date": "2021-04-11T12:00:00Z"
+  },
+  "Cliente": [
+    {
+      "_id": {
+        "$oid": "6033ce2a208c65389cb23617"
+      },
+      "nombre_cliente": "Marta Cunit",
+      "Ubicación": [
+        {
+          "calle": "Sevillano",
+          "numero": 3,
+          "Ciudad": "Malaga",
+          "CP": 9898,
+          "Pais": "Marruecos"
+        }
+      ],
+      "telefono": 937172749,
+      "email": "marta71@gmail.com",
+      "fecha_inicio": {
+        "$date": "2021-01-05T11:15:00Z"
+      },
+      "Recomendado por cliente": "Laura Ros"
+    }
+  ],
+  "cantidad": 1,
+  "gafa": [
+    {
+      "_id": {
+        "$oid": "6033c63e208c65389cb23614"
+      },
+      "marca": "michaelkors",
+      "graduación": [
+        {
+          "graduacion_vidrio_1": 2,
+          "graduacion_vidrio_2": 2
+        }
+      ],
+      "TipoMontura": "metalica",
+      "ColorMontura": "plata",
+      "colorVidrios": [
+        {
+          "Color_vidrio1": "transparente",
+          "Color_vidrio2": "transparente"
+        }
+      ],
+      "precio": 300,
+      "Proveedor": [
+        {
+          "Nombre_proveedor": "Novita,s.a.",
+          "Ubicacion": [
+            {
+              "calle": "gracia",
+              "numero": 12,
+              "piso": 1,
+              "puerta": "2",
+              "ciudad": "San Sebastian",
+              "CP": 3434,
+              "Pais": "Alemania"
+            }
+          ],
+          "Telefono": 937171212,
+          "Fax": 937171212,
+          "NIF": "A-12311123"
+        }
+      ]
+    }
+  ],
+  "precio total": 300,
+  "Numero de Empleado": 1
+}]

@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "6033e1d5208c65389cb2361a"
+  },
+  "NombreTienda": "tienda 1",
+  "ubicacion": [
+    {
+      "calle": "clavel",
+      "numero": 56,
+      "piso": 2,
+      "puerta": 1
+    }
+  ],
+  "CP": "08203",
+  "Localidad": [
+    {
+      "_id": {
+        "$oid": "6033ec52208c65389cb23631"
+      },
+      "CP": "08203",
+      "Localidad": "sabadell",
+      "Provincia": [
+        {
+          "_id": {
+            "$oid": "6033ee05208c65389cb23635"
+          },
+          "Nombre_provincia": "Barcelona"
+        }
+      ]
+    }
+  ],
+  "empleado": []
+},{
+  "_id": {
+    "$oid": "6033e474208c65389cb2361e"
+  },
+  "NombreTienda": "tienda 2",
+  "ubicacion": [
+    {
+      "calle": "rosa",
+      "numero": 6
+    }
+  ],
+  "CP": "43700",
+  "Localidad": [
+    {
+      "_id": {
+        "$oid": "6033ec52208c65389cb23632"
+      },
+      "CP": "43700",
+      "Localidad": "calafell",
+      "Provincia": [
+        {
+          "_id": {
+            "$oid": "6033ee05208c65389cb23636"
+          },
+          "Nombre_provincia": "Tarragona"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6033e47c208c65389cb2361f"
+  },
+  "NombreTienda": "tienda 3 ",
+  "ubicacion": [
+    {
+      "calle": "margarita",
+      "numero": 128,
+      "piso": 1,
+      "puerta": 1
+    }
+  ],
+  "CP": "17255",
+  "Localidad": [
+    {
+      "_id": {
+        "$oid": "6033ec52208c65389cb23633"
+      },
+      "CP": "17255",
+      "Localidad": "begur",
+      "Provincia": [
+        {
+          "_id": {
+            "$oid": "6033ee05208c65389cb23637"
+          },
+          "Nombre_provincia": "Girona"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6033e47f208c65389cb23620"
+  },
+  "NombreTienda": "tienda 4",
+  "ubicacion": [
+    {
+      "calle": "orquidia",
+      "numero": 1,
+      "piso": 5,
+      "puerta": 2
+    }
+  ],
+  "CP": "25310",
+  "Localidad": [
+    {
+      "_id": {
+        "$oid": "6033ec52208c65389cb23634"
+      },
+      "CP": "25310",
+      "Localidad": "agramunt",
+      "Provincia": [
+        {
+          "_id": {
+            "$oid": "6033ee05208c65389cb23638"
+          },
+          "Nombre_provincia": "Lleida"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6138db0e2612f52d49febfbf"
+  }
+}]

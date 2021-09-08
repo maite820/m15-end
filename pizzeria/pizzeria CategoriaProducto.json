@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6033f5d9208c65389cb2363d"
+  },
+  "CategoriaProducto": "Classica"
+},{
+  "_id": {
+    "$oid": "6033f5ed208c65389cb2363e"
+  },
+  "CategoriaProducto": "Cheff"
+},{
+  "_id": {
+    "$oid": "6033f5f1208c65389cb2363f"
+  },
+  "CategoriaProducto": "Picante"
+}]

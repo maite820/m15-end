@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "602d558281e658387452ffb0"
+  },
+  "nombre_cliente": "Laura Ros",
+  "Ubicación": [
+    {
+      "calle": "Sevillano",
+      "numero": 1,
+      "Ciudad": "Malaga",
+      "CP": 9898,
+      "Pais": "Marruecos"
+    }
+  ],
+  "telefono": 937172087,
+  "email": "LAURA@GMAIL.COM",
+  "fecha_inicio": {
+    "$date": "2021-01-05T11:14:00Z"
+  },
+  "Recomendado por cliente": "Marta Cunit"
+},{
+  "_id": {
+    "$oid": "6033ce2a208c65389cb23617"
+  },
+  "nombre_cliente": "Marta Cunit",
+  "Ubicación": [
+    {
+      "calle": "Sevillano",
+      "numero": 3,
+      "Ciudad": "Malaga",
+      "CP": 9898,
+      "Pais": "Marruecos"
+    }
+  ],
+  "telefono": 937172749,
+  "email": "marta71@gmail.com",
+  "fecha_inicio": {
+    "$date": "2021-01-05T11:15:00Z"
+  },
+  "Recomendado por cliente": "Laura Ros"
+},{
+  "_id": {
+    "$oid": "6033ce2f208c65389cb23618"
+  },
+  "nombre_cliente": "Aaron Gil",
+  "Ubicación": [
+    {
+      "calle": "Chanel",
+      "numero": 10,
+      "Ciudad": "Paris",
+      "CP": 2328,
+      "Pais": "Francia"
+    }
+  ],
+  "telefono": 92312117,
+  "email": "gil@chanel.com",
+  "fecha_inicio": {
+    "$date": "2021-01-07T10:14:00Z"
+  },
+  "Recomendado por cliente": "Laura Ros"
+}]

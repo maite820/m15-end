@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "6033f2de208c65389cb23639"
+  },
+  "Nombre_cliente": "marta",
+  "Apellidos": "ros",
+  "ubicacion": [
+    {
+      "Calle": "diputacio",
+      "numero": 23,
+      "piso": 2
+    }
+  ],
+  "CP": "08203",
+  "Localidad": [
+    {
+      "_id": {
+        "$oid": "6033ec52208c65389cb23631"
+      },
+      "CP": "08203",
+      "Localidad": "sabadell",
+      "Provincia": [
+        {
+          "_id": {
+            "$oid": "6033ee05208c65389cb23635"
+          },
+          "Nombre_provincia": "Barcelona"
+        }
+      ]
+    }
+  ],
+  "telefono": 934561122,
+  "NIF": "34432345-X"
+},{
+  "_id": {
+    "$oid": "6033f2de208c65389cb2363a"
+  },
+  "Nombre_cliente": "javier",
+  "Apellidos": "eris",
+  "ubicacion": [
+    {
+      "Calle": "Narcisos",
+      "numero": 1,
+      "piso": 2
+    }
+  ],
+  "CP": "43700",
+  "Localidad": [
+    {
+      "_id": {
+        "$oid": "6033ec52208c65389cb23632"
+      },
+      "CP": "43700",
+      "Localidad": "calafell",
+      "Provincia": [
+        {
+          "_id": {
+            "$oid": "6033ee05208c65389cb23636"
+          },
+          "Nombre_provincia": "Tarragona"
+        }
+      ]
+    }
+  ],
+  "telefono": 932341111,
+  "NIF": "34546789-R"
+}]

@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6033ec52208c65389cb23631"
+  },
+  "CP": "08203",
+  "Localidad": "sabadell",
+  "Provincia": [
+    {
+      "_id": {
+        "$oid": "6033ee05208c65389cb23635"
+      },
+      "Nombre_provincia": "Barcelona"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6033ec52208c65389cb23632"
+  },
+  "CP": "43700",
+  "Localidad": "calafell",
+  "Provincia": [
+    {
+      "_id": {
+        "$oid": "6033ee05208c65389cb23636"
+      },
+      "Nombre_provincia": "Tarragona"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6033ec52208c65389cb23633"
+  },
+  "CP": "17255",
+  "Localidad": "begur",
+  "Provincia": [
+    {
+      "_id": {
+        "$oid": "6033ee05208c65389cb23637"
+      },
+      "Nombre_provincia": "Girona"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6033ec52208c65389cb23634"
+  },
+  "CP": "25310",
+  "Localidad": "agramunt",
+  "Provincia": [
+    {
+      "_id": {
+        "$oid": "6033ee05208c65389cb23638"
+      },
+      "Nombre_provincia": "Lleida"
+    }
+  ]
+}]

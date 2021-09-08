@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6033e929208c65389cb23627"
+  },
+  "NumEmpleado": 1,
+  "nombre": "raul",
+  "apellidos": "bautista",
+  "NIF": "44231623-x",
+  "telefono": 934561111,
+  "LugarTrabajo": "tienda 1",
+  "categoria": "Cocinera/o"
+},{
+  "_id": {
+    "$oid": "6033e929208c65389cb23628"
+  },
+  "NumEmpleado": 2,
+  "nombre": "javier",
+  "apellidos": "vicente",
+  "NIF": "11124354-u",
+  "telefono": 937172121,
+  "LugarTrabajo": "tienda 1",
+  "categoria": "Repartidor/a",
+  "NumRepartidor": 1
+},{
+  "_id": {
+    "$oid": "6033e929208c65389cb23629"
+  },
+  "NumEmpleado": 3,
+  "nombre": "sandra",
+  "apellidos": "motos",
+  "NIF": "44531623-h",
+  "telefono": 934563212,
+  "LugarTrabajo": "tienda 2",
+  "categoria": "Cocinera/o"
+},{
+  "_id": {
+    "$oid": "6033e929208c65389cb2362a"
+  },
+  "NumEmpleado": 4,
+  "nombre": "montse",
+  "apellidos": "ollas",
+  "NIF": "74231623-s",
+  "telefono": 931112342,
+  "LugarTrabajo": "tienda 2",
+  "categoria": "Repartidor/a",
+  "NumRepartidor": 2
+},{
+  "_id": {
+    "$oid": "6033e929208c65389cb2362b"
+  },
+  "NumEmpleado": 5,
+  "nombre": "jordi",
+  "apellidos": "erizo",
+  "NIF": "23223431-t",
+  "telefono": 977675456,
+  "LugarTrabajo": "tienda 3",
+  "categoria": "Cocinera/o"
+},{
+  "_id": {
+    "$oid": "6033e929208c65389cb2362c"
+  },
+  "NumEmpleado": 6,
+  "nombre": "esther",
+  "apellidos": "blanco",
+  "NIF": "34341544-g",
+  "telefono": 977231221,
+  "LugarTrabajo": "tienda 3 ",
+  "categoria": "Repartidor/a",
+  "NumRepartidor": 3
+}]

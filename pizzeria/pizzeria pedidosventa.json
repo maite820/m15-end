@@ -1,0 +1,259 @@
+[{
+  "_id": {
+    "$oid": "6034000b208c65389cb23651"
+  },
+  "Fecha Pedido": "2021-01-05 21:00",
+  "NumPedido": "21/001",
+  "tipoEnvio": "domicilio",
+  "Cliente": [
+    {
+      "_id": {
+        "$oid": "6033f2de208c65389cb23639"
+      },
+      "Nombre_cliente": "marta",
+      "Apellidos": "ros",
+      "ubicacion": [
+        {
+          "Calle": "diputacio",
+          "numero": 23,
+          "piso": 2
+        }
+      ],
+      "CP": "08203",
+      "Localidad": [
+        {
+          "_id": {
+            "$oid": "6033ec52208c65389cb23631"
+          },
+          "CP": "08203",
+          "Localidad": "sabadell",
+          "Provincia": [
+            {
+              "_id": {
+                "$oid": "6033ee05208c65389cb23635"
+              },
+              "Nombre_provincia": "Barcelona"
+            }
+          ]
+        }
+      ],
+      "telefono": 934561122,
+      "NIF": "34432345-X"
+    }
+  ],
+  "Productos": [
+    {
+      "_id": {
+        "$oid": "6033fc15208c65389cb23648"
+      },
+      "producto": "agua",
+      "Descripcipn_producto": "agua bezoya",
+      "ImagenProducto": "",
+      "precio": 2,
+      "familia": "bebidas"
+    },
+    {
+      "_id": {
+        "$oid": "6033fc15208c65389cb2364c"
+      },
+      "producto": "hamburguesa jessy",
+      "Descripcipn_producto": "hamburguesa con pan, bacon, queso,lechuga,mostaza y hamburguesa ternera",
+      "ImagenProducto": "",
+      "precio": 14,
+      "familia": "hamburguesas"
+    }
+  ],
+  "PrecioTotal": 16,
+  "Empleado": [
+    {
+      "_id": {
+        "$oid": "6033e929208c65389cb2362a"
+      },
+      "NumEmpleado": 4,
+      "nombre": "montse",
+      "apellidos": "ollas",
+      "NIF": "74231623-s",
+      "telefono": 931112342,
+      "LugarTrabajo": "tienda 2",
+      "categoria": "Repartidor/a",
+      "NumRepartidor": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6034043f208c65389cb23652"
+  },
+  "Fecha Pedido": "2021-01-07 22:00",
+  "NumPedido": "21/002",
+  "tipoEnvio": "domicilio",
+  "Cliente": [
+    {
+      "_id": {
+        "$oid": "6033f2de208c65389cb2363a"
+      },
+      "Nombre_cliente": "javier",
+      "Apellidos": "eris",
+      "ubicacion": [
+        {
+          "Calle": "Narcisos",
+          "numero": 1,
+          "piso": 2
+        }
+      ],
+      "CP": "43700",
+      "Localidad": [
+        {
+          "_id": {
+            "$oid": "6033ec52208c65389cb23632"
+          },
+          "CP": "43700",
+          "Localidad": "calafell",
+          "Provincia": [
+            {
+              "_id": {
+                "$oid": "6033ee05208c65389cb23636"
+              },
+              "Nombre_provincia": "Tarragona"
+            }
+          ]
+        }
+      ],
+      "telefono": 932341111,
+      "NIF": "34546789-R"
+    }
+  ],
+  "Productos": [
+    {
+      "_id": {
+        "$oid": "6033fc15208c65389cb2364c"
+      },
+      "producto": "hamburguesa jessy",
+      "Descripcipn_producto": "hamburguesa con pan, bacon, queso,lechuga,mostaza y hamburguesa ternera",
+      "ImagenProducto": "",
+      "precio": 14,
+      "familia": "hamburguesas"
+    },
+    {
+      "_id": {
+        "$oid": "6033fc15208c65389cb2364f"
+      },
+      "producto": "pizza cuatro quesos",
+      "Descripcipn_producto": "pizza tomate roquefort, mozarella, edam y parmesano",
+      "ImagenProducto": "",
+      "precio": 15,
+      "familia": "pizzas",
+      "Categoria": [
+        {
+          "_id": {
+            "$oid": "6033f5f1208c65389cb2363f"
+          },
+          "CategoriaProducto": "Picante"
+        }
+      ]
+    }
+  ],
+  "PrecioTotal": 30,
+  "Empleado": [
+    {
+      "_id": {
+        "$oid": "6033e929208c65389cb23628"
+      },
+      "NumEmpleado": 2,
+      "nombre": "javier",
+      "apellidos": "vicente",
+      "NIF": "11124354-u",
+      "telefono": 937172121,
+      "LugarTrabajo": "tienda 1",
+      "categoria": "Repartidor/a",
+      "NumRepartidor": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "603407c3208c65389cb23653"
+  },
+  "Fecha Pedido": "2021-01-07 22:00",
+  "NumPedido": "21/003",
+  "tipoEnvio": "Recogida Tienda",
+  "Cliente": [
+    {
+      "_id": {
+        "$oid": "6033f2de208c65389cb2363a"
+      },
+      "Nombre_cliente": "javier",
+      "Apellidos": "eris",
+      "ubicacion": [
+        {
+          "Calle": "Narcisos",
+          "numero": 1,
+          "piso": 2
+        }
+      ],
+      "CP": "43700",
+      "Localidad": [
+        {
+          "_id": {
+            "$oid": "6033ec52208c65389cb23632"
+          },
+          "CP": "43700",
+          "Localidad": "calafell",
+          "Provincia": [
+            {
+              "_id": {
+                "$oid": "6033ee05208c65389cb23636"
+              },
+              "Nombre_provincia": "Tarragona"
+            }
+          ]
+        }
+      ],
+      "telefono": 932341111,
+      "NIF": "34546789-R"
+    }
+  ],
+  "Productos": [
+    {
+      "_id": {
+        "$oid": "6033fc15208c65389cb2364c"
+      },
+      "producto": "hamburguesa jessy",
+      "Descripcipn_producto": "hamburguesa con pan, bacon, queso,lechuga,mostaza y hamburguesa ternera",
+      "ImagenProducto": "",
+      "precio": 14,
+      "familia": "hamburguesas"
+    },
+    {
+      "_id": {
+        "$oid": "6033fc15208c65389cb2364f"
+      },
+      "producto": "pizza cuatro quesos",
+      "Descripcipn_producto": "pizza tomate roquefort, mozarella, edam y parmesano",
+      "ImagenProducto": "",
+      "precio": 15,
+      "familia": "pizzas",
+      "Categoria": [
+        {
+          "_id": {
+            "$oid": "6033f5f1208c65389cb2363f"
+          },
+          "CategoriaProducto": "Picante"
+        }
+      ]
+    }
+  ],
+  "PrecioTotal": 30,
+  "Empleado": [
+    {
+      "_id": {
+        "$oid": "6033e929208c65389cb23629"
+      },
+      "NumEmpleado": 3,
+      "nombre": "sandra",
+      "apellidos": "motos",
+      "NIF": "44531623-h",
+      "telefono": 934563212,
+      "LugarTrabajo": "tienda 2",
+      "categoria": "Cocinera/o"
+    }
+  ]
+}]

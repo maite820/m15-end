@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "602d3f1881e658387452ff98"
+  },
+  "Nombre_proveedor": "Gigante,s.l.",
+  "Ubicacion": [
+    {
+      "calle": "lepanto",
+      "numero": 222,
+      "piso": 3,
+      "puerta": 1,
+      "ciudad": "Barcelona",
+      "CP": 23445,
+      "Pais": "Francia"
+    }
+  ],
+  "Telefono": 937456567,
+  "Fax": 9374556576,
+  "NIF": "B-12312345"
+},{
+  "_id": {
+    "$oid": "602d3f1881e658387452ff99"
+  },
+  "Nombre_proveedor": "Novita,s.a.",
+  "Ubicacion": [
+    {
+      "calle": "gracia",
+      "numero": 12,
+      "piso": 1,
+      "puerta": "2",
+      "ciudad": "San Sebastian",
+      "CP": 3434,
+      "Pais": "Alemania"
+    }
+  ],
+  "Telefono": 937171212,
+  "Fax": 937171212,
+  "NIF": "A-12311123"
+},{
+  "_id": {
+    "$oid": "6033c02509723d26d8264dc3"
+  },
+  "Nombre_proveedor": "lavalla,s.a.",
+  "Ubicacion": [
+    {
+      "calle": "gracia",
+      "numero": 12,
+      "piso": 1,
+      "puerta": "2",
+      "ciudad": "San Sebastian",
+      "CP": 3434,
+      "Pais": "Alemania"
+    }
+  ],
+  "Telefono": 900123123,
+  "Fax": 900123456,
+  "NIF": "A-67230234"
+}]

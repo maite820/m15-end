@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "6033fc15208c65389cb23648"
+  },
+  "producto": "agua",
+  "Descripcipn_producto": "agua bezoya",
+  "ImagenProducto": "",
+  "precio": 2,
+  "familia": "bebidas"
+},{
+  "_id": {
+    "$oid": "6033fc15208c65389cb23649"
+  },
+  "producto": "vino somontano",
+  "Descripcipn_producto": "vino tinto somontano de la marca enate",
+  "ImagenProducto": "",
+  "precio": 15,
+  "familia": "bebidas"
+},{
+  "_id": {
+    "$oid": "6033fc15208c65389cb2364a"
+  },
+  "producto": "coca-cola",
+  "Descripcipn_producto": "refresco coca-cola",
+  "ImagenProducto": "",
+  "precio": 3,
+  "familia": "hamburguesas"
+},{
+  "_id": {
+    "$oid": "6033fc15208c65389cb2364b"
+  },
+  "producto": "hamburguesa classica",
+  "Descripcipn_producto": "hamburguesa con pan , tomate y hamburguesa de ternera",
+  "ImagenProducto": "",
+  "precio": 11,
+  "familia": "hamburguesas"
+},{
+  "_id": {
+    "$oid": "6033fc15208c65389cb2364c"
+  },
+  "producto": "hamburguesa jessy",
+  "Descripcipn_producto": "hamburguesa con pan, bacon, queso,lechuga,mostaza y hamburguesa ternera",
+  "ImagenProducto": "",
+  "precio": 14,
+  "familia": "hamburguesas"
+},{
+  "_id": {
+    "$oid": "6033fc15208c65389cb2364d"
+  },
+  "producto": "pizza margarita",
+  "Descripcipn_producto": "pizza tomate,queso y pernil",
+  "ImagenProducto": "",
+  "precio": 10,
+  "familia": "pizzas",
+  "Categoria": [
+    {
+      "_id": {
+        "$oid": "6033f5d9208c65389cb2363d"
+      },
+      "CategoriaProducto": "Classica"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6033fc15208c65389cb2364e"
+  },
+  "producto": "pizza boletus",
+  "Descripcipn_producto": "pizza tomate , bolets, trompetas, guindilla y rovellons",
+  "ImagenProducto": "",
+  "precio": 13,
+  "familia": "pizzas",
+  "Categoria": [
+    {
+      "_id": {
+        "$oid": "6033f5ed208c65389cb2363e"
+      },
+      "CategoriaProducto": "Cheff"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6033fc15208c65389cb2364f"
+  },
+  "producto": "pizza cuatro quesos",
+  "Descripcipn_producto": "pizza tomate roquefort, mozarella, edam y parmesano",
+  "ImagenProducto": "",
+  "precio": 15,
+  "familia": "pizzas",
+  "Categoria": [
+    {
+      "_id": {
+        "$oid": "6033f5f1208c65389cb2363f"
+      },
+      "CategoriaProducto": "Picante"
+    }
+  ]
+}]

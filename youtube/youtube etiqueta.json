@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "60349957fdd1f92b6472b740"
+  },
+  "NomEtiqueta": "Romantica"
+},{
+  "_id": {
+    "$oid": "60349ee5fdd1f92b6472b745"
+  },
+  "NomEtiqueta": "comica"
+},{
+  "_id": {
+    "$oid": "60349ee9fdd1f92b6472b746"
+  },
+  "NomEtiqueta": "Drama"
+},{
+  "_id": {
+    "$oid": "60349eeffdd1f92b6472b747"
+  },
+  "NomEtiqueta": "Terror"
+}]

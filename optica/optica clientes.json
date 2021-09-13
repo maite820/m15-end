@@ -2,6 +2,7 @@
   "_id": {
     "$oid": "602d558281e658387452ffb0"
   },
+  "id-cliente": "1",
   "nombre_cliente": "Laura Ros",
   "Ubicación": [
     {
@@ -17,11 +18,17 @@
   "fecha_inicio": {
     "$date": "2021-01-05T11:14:00Z"
   },
-  "Recomendado por cliente": "Marta Cunit"
+  "Recomendado por cliente": [
+    {
+      "id-cliente": "2",
+      "nombre_cliente": "Marta Cunit"
+    }
+  ]
 },{
   "_id": {
     "$oid": "6033ce2a208c65389cb23617"
   },
+  "id-cliente": "2",
   "nombre_cliente": "Marta Cunit",
   "Ubicación": [
     {
@@ -37,11 +44,17 @@
   "fecha_inicio": {
     "$date": "2021-01-05T11:15:00Z"
   },
-  "Recomendado por cliente": "Laura Ros"
+  "Recomendado por cliente": [
+    {
+      "id-cliente": "3",
+      "nombre_cliente": "Aaron Gil"
+    }
+  ]
 },{
   "_id": {
     "$oid": "6033ce2f208c65389cb23618"
   },
+  "id-cliente": "3",
   "nombre_cliente": "Aaron Gil",
   "Ubicación": [
     {
@@ -57,5 +70,5 @@
   "fecha_inicio": {
     "$date": "2021-01-07T10:14:00Z"
   },
-  "Recomendado por cliente": "Laura Ros"
+  "Recomendado por cliente": ""
 }]

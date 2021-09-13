@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "603494cafdd1f92b6472b73d"
+  },
+  "email": "laura@gmail.com",
+  "Password": "laura@07",
+  "NomUsuario": "laura ros gil",
+  "FechaNacimiento": "1976-04-04",
+  "Sexo": "M",
+  "Pais": "Dinamarca",
+  "CP": "DD3456"
+},{
+  "_id": {
+    "$oid": "6034a693fdd1f92b6472b74a"
+  },
+  "email": "jaume.serra@gmail.com",
+  "Password": "SERRA@L\"",
+  "NomUsuario": "jaume serra rodriguez",
+  "FechaNacimiento": "1980-09-23",
+  "Sexo": "H",
+  "Pais": "Suecia",
+  "CP": "S555"
+},{
+  "_id": {
+    "$oid": "6034a697fdd1f92b6472b74b"
+  },
+  "email": "isatorres2@telefonica.com",
+  "Password": "ISAT2FDF7",
+  "NomUsuario": "isabel torres fernandez",
+  "FechaNacimiento": "1970-03-21",
+  "Sexo": "M",
+  "Pais": "Rusia",
+  "CP": "R4545"
+}]
